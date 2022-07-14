@@ -4,4 +4,4 @@ draw python logo using python
 
 
 
-![LOGO](github.com/cirklare/python_logo/py.png)
+![LOGO](https://github.com/CIRKLARE/python_logo/blob/main/py.png)
